@@ -1,0 +1,7 @@
+#include "ctest.h"
+
+int main()
+{
+	printf("hope this worked\n");
+	return 0;
+}
